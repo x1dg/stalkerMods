@@ -32,3 +32,4 @@
 - ### [Контракт на плохую жизнь: Эффект бабочки](https://ap-pro.ru/stuff/zov_pripjati/kontrakt-na-plohuyu-zhizn-effekt-babochki-r215/)
 - ### [Контракт на новую жизнь](https://ap-pro.ru/stuff/zov_pripjati/kontrakt-na-novuyu-zhizn-r295/)
 - ### [Winter of Death: Ultimatum](https://ap-pro.ru/stuff/zov_pripjati/winter-of-death-ultimatum-r50/)
+- - ### [Dead City Breakthrough v3.0](https://ap-pro.ru/stuff/zov_pripjati/dead-city-breakthrough-30-r236/)
