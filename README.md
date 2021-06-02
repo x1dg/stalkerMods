@@ -13,6 +13,8 @@
 - ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/)
 - ### [Dark Path](https://ap-pro.ru/stuff/ten_chernobylja/dark-path-r279/)
 - ### [Nature Winter v2.3 Black Edition](https://ap-pro.ru/stuff/ten_chernobylja/nature-winter-v23-black-edition-r76/)
+- ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/)
+- ### [Погоня за Праздником 2: В Ожидании Чуда...](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/)
 - ### [Ночь перед Рождеством](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-r146/)
 - ### [Ночь перед Рождеством 2](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-2-r176/)
 - ### [Ночь перед Рождеством 3](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-3-r251/)
