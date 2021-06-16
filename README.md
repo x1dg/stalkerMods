@@ -23,6 +23,7 @@
 - ### [Голос: Эпизод 1](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-1-r219/)
 - ### [Голос: Эпизод 2](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/)
 - ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/)
+- ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/)
 
 ## Зов Припяти
 - ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/)
