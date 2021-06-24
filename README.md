@@ -43,3 +43,4 @@
 - ### [Doomed to Eternal Torment](https://ap-pro.ru/stuff/zov_pripjati/doomed-to-eternal-torment-r254/)
 - ### [Зимний Снайпер](https://ap-pro.ru/stuff/zov_pripjati/zimniy-snayper-r211/)
 - ### [Связной](https://ap-pro.ru/stuff/zov_pripjati/svyaznoy-r168/)
+- ### [Плохая Компания](https://ap-pro.ru/stuff/zov_pripjati/plohaya-kompaniya-r136/)
