@@ -15,7 +15,7 @@
 - ### [S.T.A.L.K.E.R. F.M.](https://ap-pro.ru/stuff/ten_chernobylja/stalker-fm-r248/) (end_date 2020)
 - ### [Игра Душ: Новое Начало](https://ap-pro.ru/stuff/ten_chernobylja/igra-dush-novoe-nachalo-r255/) (end_date 2020)
 - ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/) (end_date 2020)
-- ### [Dark Path](https://ap-pro.ru/stuff/ten_chernobylja/dark-path-r279/) end 2020)
+- ### [Dark Path](https://ap-pro.ru/stuff/ten_chernobylja/dark-path-r279/) (end_date 2020)
 - ### [Nature Winter v2.3 Black Edition](https://ap-pro.ru/stuff/ten_chernobylja/nature-winter-v23-black-edition-r76/) (end_date 2021)
 - ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/) (end_date 2019)
 - ### [Погоня за Праздником 2: В Ожидании Чуда...](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/) end 2020)
