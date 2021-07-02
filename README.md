@@ -1,7 +1,7 @@
 # Сталкер
 ## Vanila
 | Название        | Дата прохождения          | Оценка  |
---- | --- | ---
+--- | :---: | :---:
 [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) | 2009 | 10/10
 [S.T.A.L.K.E.R. Clear Sky](https://store.steampowered.com/app/20510/STALKER_Clear_Sky/) | 2009 | 7/10
 [S.T.A.L.K.E.R. Call Of Pripyat](https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/) | 2009 | 8/10
