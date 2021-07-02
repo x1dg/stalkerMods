@@ -28,6 +28,7 @@
 - ### [Голос: Эпизод 2](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/) (end_date 2021)
 - ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/) (end_date 2021)
 - ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021)
+- ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021)
 
 ## Зов Припяти
 - ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/) (end_date 2020)
