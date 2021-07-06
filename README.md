@@ -55,6 +55,6 @@
 - ### [Связной](https://ap-pro.ru/stuff/zov_pripjati/svyaznoy-r168/) (end_date 2021)
 - ### [Плохая Компания](https://ap-pro.ru/stuff/zov_pripjati/plohaya-kompaniya-r136/) (end_date 2021)
 - ### [Anomaly 1.5.1](https://ap-pro.ru/stuff/zov_pripjati/plohaya-kompaniya-r136/) (end_date 27.06.2021)
-- ### [Обреченный на Вечные Муки](https://ap-pro.ru/stuff/zov_pripjati/doomed-to-eternal-torment-r254/) (end_date 2021)
-- ### [Тернистый Путь](https://ap-pro.ru/stuff/zov_pripjati/thorny-way-r247/) (start_date 02.07.2021 / end_date 04.07.2021)
+- ### [Обреченный на вечные муки](https://ap-pro.ru/stuff/zov_pripjati/doomed-to-eternal-torment-r254/) (end_date 2021)
+- ### [Тернистый путь](https://ap-pro.ru/stuff/zov_pripjati/thorny-way-r247/) (start_date 02.07.2021 / end_date 04.07.2021)
 - ### [Канувшие в Небытие](https://ap-pro.ru/stuff/zov_pripjati/kanuvshie-v-nebytie-r267/) (start_date 04.07.2021 / end_date 06.07.2021)
