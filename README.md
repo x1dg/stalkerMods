@@ -37,11 +37,11 @@
 - ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021)
 
 ## Зов Припяти
+- ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019)
+- ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019)
 - ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/) (end_date 2020)
 - ### [Пространственная Аномалия 4.1](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/) (end_date 2020)
 - ### [Долина Шорохов](https://ap-pro.ru/stuff/zov_pripjati/dolina-shorohov-r97/) (end_date 2020)
-- ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019)
-- ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019)
 - ### [Another Zone Mode: Пролог](https://ap-pro.ru/stuff/zov_pripjati/another-zone-mod-prolog-r165/) (end_date 2020)
 - ### [Another Zone Mode](https://ap-pro.ru/stuff/zov_pripjati/another-zone-mod-r194/) (end_date 2020)
 - ### [Chernobyl Chronicles](https://ap-pro.ru/stuff/zov_pripjati/chernobyl-chronicles-r169/) (end_date 2020)
