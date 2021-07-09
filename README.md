@@ -28,7 +28,7 @@
 - ### [Голос: Эпизод 2](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/) (end_date 2021)
 - ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/) (end_date 2021)
 - ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021)
-- ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021)
+- ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567) (end_date 02.07.2021)
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019)
@@ -48,9 +48,9 @@
 - ### [Зимний Снайпер](https://ap-pro.ru/stuff/zov_pripjati/zimniy-snayper-r211/) (end_date 2021)
 - ### [Связной](https://ap-pro.ru/stuff/zov_pripjati/svyaznoy-r168/) (end_date 2021)
 - ### [Плохая Компания](https://ap-pro.ru/stuff/zov_pripjati/plohaya-kompaniya-r136/) (end_date 2021)
-- ### [Anomaly 1.5.1](https://ap-pro.ru/stuff/zov_pripjati/plohaya-kompaniya-r136/) (end_date 27.06.2021)
+- ### [Anomaly 1.5.1](https://ap-pro.ru/stuff/zov_pripjati/anomaly-15-release-r244/?tab=reviews&sort=newest#review-10568) (end_date 27.06.2021)
 - ### [Doomed to Eternal Torment](https://ap-pro.ru/stuff/zov_pripjati/doomed-to-eternal-torment-r254/) (end_date 2021)
-- ### [Thorny Way](https://ap-pro.ru/stuff/zov_pripjati/thorny-way-r247/) (start_date 02.07.2021 / end_date 04.07.2021)
-- ### [Канувшие в Небытие](https://ap-pro.ru/stuff/zov_pripjati/kanuvshie-v-nebytie-r267/) (start_date 04.07.2021 / end_date 06.07.2021)
-- ### [Gott Mit Uns](https://ap-pro.ru/stuff/zov_pripjati/gott-mit-uns-bog-s-nami-r183/) (start_date 07.07.2021 / end_date 07.07.2021)
+- ### [Thorny Way](https://ap-pro.ru/stuff/zov_pripjati/thorny-way-r247/?tab=reviews&sort=newest#review-10576) (start_date 02.07.2021 / end_date 04.07.2021)
+- ### [Канувшие в Небытие](https://ap-pro.ru/stuff/zov_pripjati/kanuvshie-v-nebytie-r267/?tab=reviews&sort=newest#review-10609) (start_date 04.07.2021 / end_date 06.07.2021)
+- ### [Gott Mit Uns](https://ap-pro.ru/stuff/zov_pripjati/gott-mit-uns-bog-s-nami-r183/?tab=reviews&sort=newest#review-10618) (start_date 07.07.2021 / end_date 07.07.2021)
 - ### [Выживший. Побег из Зоны](https://ap-pro.ru/stuff/zov_pripjati/vyzhivshiy-pobeg-iz-zony-r213/) (end_date 10.07.2021)
