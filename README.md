@@ -53,3 +53,4 @@
 - ### [Thorny Way](https://ap-pro.ru/stuff/zov_pripjati/thorny-way-r247/) (start_date 02.07.2021 / end_date 04.07.2021)
 - ### [Канувшие в Небытие](https://ap-pro.ru/stuff/zov_pripjati/kanuvshie-v-nebytie-r267/) (start_date 04.07.2021 / end_date 06.07.2021)
 - ### [Gott Mit Uns](https://ap-pro.ru/stuff/zov_pripjati/gott-mit-uns-bog-s-nami-r183/) (start_date 07.07.2021 / end_date 07.07.2021)
+- ### [Выживший. Побег из Зоны](https://ap-pro.ru/stuff/zov_pripjati/vyzhivshiy-pobeg-iz-zony-r213/) (end_date 10.07.2021)
