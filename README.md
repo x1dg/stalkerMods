@@ -55,4 +55,4 @@
 - ### [Gott Mit Uns](https://ap-pro.ru/stuff/zov_pripjati/gott-mit-uns-bog-s-nami-r183/?tab=reviews&sort=newest#review-10618) (start_date 07.07.2021 / end_date 07.07.2021)
 - ### [Выживший. Побег из Зоны](https://ap-pro.ru/stuff/zov_pripjati/vyzhivshiy-pobeg-iz-zony-r213/?tab=reviews&sort=newest#review-10635) (end_date 10.07.2021)
 - ### [Short story - Intruders](https://ap-pro.ru/stuff/zov_pripjati/short-story-intruders-r285/?tab=reviews&sort=newest#review-10644) (start_date 10.07.2021 / end_date 11.07.2021)
-- ### [Чудесный Кристалл, Дарованный Звездами](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/?tab=reviews&sort=newest#review-10656) (start_date 11.07.2021 / ???)
+- ### [Чудесный Кристалл, Дарованный Звездами](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/?tab=reviews&sort=newest#review-10656) (start_date 11.07.2021 / end_date 12.07.2021)
