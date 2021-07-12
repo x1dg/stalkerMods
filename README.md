@@ -14,7 +14,7 @@
 - ### [Зона Поражения: Новая Эра V2.0 (OGSR Engine)](https://ap-pro.ru/forums/topic/2378-stalker-zona-porazheniya-novaya-era-v20-ogsr-engine/) (end_date 2021)
 - ### [S.T.A.L.K.E.R. F.M.](https://ap-pro.ru/stuff/ten_chernobylja/stalker-fm-r248/) (end_date 2020)
 - ### [Игра Душ: Новое Начало](https://ap-pro.ru/stuff/ten_chernobylja/igra-dush-novoe-nachalo-r255/?tab=reviews&sort=newest#review-10655) (end_date 2020)
-- ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/) (end_date 2020)
+- ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/?tab=reviews&sort=newest#review-10661) (end_date 2020)
 - ### [Dark Path](https://ap-pro.ru/stuff/ten_chernobylja/dark-path-r279/) (end_date 2020)
 - ### [Nature Winter v2.3 Black Edition](https://ap-pro.ru/stuff/ten_chernobylja/nature-winter-v23-black-edition-r76/) (end_date 2021)
 - ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/) (end_date 2019)
