@@ -56,4 +56,4 @@
 - ### [Выживший. Побег из Зоны](https://ap-pro.ru/stuff/zov_pripjati/vyzhivshiy-pobeg-iz-zony-r213/) (end_date 10.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/vyzhivshiy-pobeg-iz-zony-r213/?tab=reviews&sort=newest#review-10635)
 - ### [Short story - Intruders](https://ap-pro.ru/stuff/zov_pripjati/short-story-intruders-r285/?tab=reviews&sort=newest#review-10644) (start_date 10.07.2021 / end_date 11.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/short-story-intruders-r285/?tab=reviews&sort=newest#review-10644)
 - ### [Чудесный Кристалл, Дарованный Звездами](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/) (start_date 11.07.2021 / end_date 12.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/?tab=reviews&sort=newest#review-10656)
-- ### [Волей Случая](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/) (start_date 13.07.2021 / end_date 12.07.2021) [Отзыв]()
+- ### [Волей Случая](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/) (start_date 13.07.2021 / end_date ??.07.2021) [Отзыв]()
