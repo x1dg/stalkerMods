@@ -13,8 +13,8 @@
 - ### [Последний Сталкер](https://ap-pro.ru/stuff/ten_chernobylja/posledniy-stalker-r222/) (end_date 2021)
 - ### [Зона Поражения: Новая Эра V2.0 (OGSR Engine)](https://ap-pro.ru/forums/topic/2378-stalker-zona-porazheniya-novaya-era-v20-ogsr-engine/) (end_date 2021)
 - ### [S.T.A.L.K.E.R. F.M.](https://ap-pro.ru/stuff/ten_chernobylja/stalker-fm-r248/) (end_date 2020)
-- ### [Игра Душ: Новое Начало](https://ap-pro.ru/stuff/ten_chernobylja/igra-dush-novoe-nachalo-r255/?tab=reviews&sort=newest#review-10655) (end_date 2020)
-- ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/?tab=reviews&sort=newest#review-10661) (end_date 2020)
+- ### [Игра Душ: Новое Начало](https://ap-pro.ru/stuff/ten_chernobylja/igra-dush-novoe-nachalo-r255/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/igra-dush-novoe-nachalo-r255/?tab=reviews&sort=newest#review-10655)
+- ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/?tab=reviews&sort=newest#review-10661)
 - ### [Dark Path](https://ap-pro.ru/stuff/ten_chernobylja/dark-path-r279/) (end_date 2020)
 - ### [Nature Winter v2.3 Black Edition](https://ap-pro.ru/stuff/ten_chernobylja/nature-winter-v23-black-edition-r76/) (end_date 2021)
 - ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/) (end_date 2019)
@@ -28,7 +28,7 @@
 - ### [Голос: Эпизод 2](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/) (end_date 2021)
 - ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/) (end_date 2021)
 - ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021)
-- ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567) (end_date 02.07.2021)
+- ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567)
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019)
