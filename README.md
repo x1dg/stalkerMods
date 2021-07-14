@@ -44,7 +44,7 @@
 - ### [Контракт на плохую жизнь: Эффект бабочки](https://ap-pro.ru/stuff/zov_pripjati/kontrakt-na-plohuyu-zhizn-effekt-babochki-r215/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kontrakt-na-plohuyu-zhizn-effekt-babochki-r215/?tab=reviews&sort=newest#review-10692)
 - ### [Контракт на новую жизнь](https://ap-pro.ru/stuff/zov_pripjati/kontrakt-na-novuyu-zhizn-r295/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kontrakt-na-novuyu-zhizn-r295/?tab=reviews&sort=newest#review-10695)
 - ### [Winter of Death: Ultimatum](https://ap-pro.ru/stuff/zov_pripjati/winter-of-death-ultimatum-r50/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/winter-of-death-ultimatum-r50/?tab=reviews&sort=newest#review-10679)
-- ### [Dead City Breakthrough v3.0](https://ap-pro.ru/stuff/zov_pripjati/dead-city-breakthrough-30-r236/) (end_date 2021)
+- ### [Dead City Breakthrough v3.0](https://ap-pro.ru/stuff/zov_pripjati/dead-city-breakthrough-30-r236/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/dead-city-breakthrough-30-r236/?tab=reviews&sort=newest#review-10698)
 - ### [Зимний Снайпер](https://ap-pro.ru/stuff/zov_pripjati/zimniy-snayper-r211/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zimniy-snayper-r211/?tab=reviews&sort=newest#review-10645)
 - ### [Связной](https://ap-pro.ru/stuff/zov_pripjati/svyaznoy-r168/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/svyaznoy-r168/?tab=reviews&sort=newest#review-10646)
 - ### [Плохая Компания](https://ap-pro.ru/stuff/zov_pripjati/plohaya-kompaniya-r136/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/plohaya-kompaniya-r136/?tab=reviews&sort=newest#review-10677)
