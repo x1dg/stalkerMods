@@ -33,8 +33,8 @@
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019)
 - ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019)
-- ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/) (end_date 2020)
-- ### [Пространственная Аномалия 4.1](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/) (end_date 2020)
+- ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/?tab=reviews&sort=newest#review-10720)
+- ### [Пространственная Аномалия 4.1](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/?tab=reviews&sort=newest#review-10721)
 - ### [Долина Шорохов + Gunslinger Mod](https://ap-pro.ru/forums/topic/2217-dolina-shorohov-gunslinger-mod/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/dolina-shorohov-r97/?tab=reviews&sort=newest#review-10711)
 - ### [Another Zone Mode: Пролог](https://ap-pro.ru/stuff/zov_pripjati/another-zone-mod-prolog-r165/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/another-zone-mod-prolog-r165/?tab=reviews&sort=newest#review-10709)
 - ### [Another Zone Mode](https://ap-pro.ru/stuff/zov_pripjati/another-zone-mod-r194/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/another-zone-mod-r194/?tab=reviews&sort=newest#review-10708)
