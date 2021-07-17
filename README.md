@@ -58,3 +58,4 @@
 - ### [Чудесный Кристалл, Дарованный Звездами](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/) (start_date 11.07.2021 / end_date 12.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/?tab=reviews&sort=newest#review-10656)
 - ### [Волей Случая](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/) (start_date 13.07.2021 / end_date 15.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/?tab=reviews&sort=newest#review-10683)
 - ### [Путь в Припять](https://ap-pro.ru/stuff/zov_pripjati/put-v-pripyat-r65/) (start_date 15.07.2021 / end_date 17.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-v-pripyat-r65/?tab=reviews&sort=newest#review-10730)
+- ### [Призраки Прошлого](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/) (start_date 17.07.2021 / end_date 17.07.2021) [Отзыв]()
