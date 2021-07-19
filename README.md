@@ -32,7 +32,7 @@
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019)
-- ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019)
+- ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/?tab=reviews&sort=newest#review-10735)
 - ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/?tab=reviews&sort=newest#review-10720)
 - ### [Пространственная Аномалия 4.1](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/?tab=reviews&sort=newest#review-10721)
 - ### [Долина Шорохов + Gunslinger Mod](https://ap-pro.ru/forums/topic/2217-dolina-shorohov-gunslinger-mod/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/dolina-shorohov-r97/?tab=reviews&sort=newest#review-10711)
@@ -58,4 +58,4 @@
 - ### [Чудесный Кристалл, Дарованный Звездами](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/) (start_date 11.07.2021 / end_date 12.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/chudesnyy-kristall-darovannyy-zvezdami-r312/?tab=reviews&sort=newest#review-10656)
 - ### [Волей Случая](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/) (start_date 13.07.2021 / end_date 15.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/?tab=reviews&sort=newest#review-10683)
 - ### [Путь в Припять](https://ap-pro.ru/stuff/zov_pripjati/put-v-pripyat-r65/) (start_date 15.07.2021 / end_date 17.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-v-pripyat-r65/?tab=reviews&sort=newest#review-10730)
-- ### [Призраки Прошлого](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/) (start_date 17.07.2021 / end_date 17.07.2021) [Отзыв]()
+- ### [Призраки Прошлого](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/) (start_date 17.07.2021 / end_date 19.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/?tab=reviews&sort=newest#review-10743)
