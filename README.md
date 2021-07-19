@@ -17,7 +17,7 @@
 - ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/?tab=reviews&sort=newest#review-10661)
 - ### [Dark Path](https://ap-pro.ru/stuff/ten_chernobylja/dark-path-r279/) (end_date 2020)
 - ### [Nature Winter v2.3 Black Edition](https://ap-pro.ru/stuff/ten_chernobylja/nature-winter-v23-black-edition-r76/) (end_date 2021)
-- ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/) (end_date 2019)
+- ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/?tab=reviews&sort=newest#review-10755)
 - ### [Погоня за Праздником 2: В Ожидании Чуда...](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/) (end_date 2020)
 - ### [Ночь перед Рождеством](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-r146/) (end_date 2021)
 - ### [Ночь перед Рождеством 2](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-2-r176/) (end_date 2021)
