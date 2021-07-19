@@ -18,7 +18,7 @@
 - ### [Dark Path](https://ap-pro.ru/stuff/ten_chernobylja/dark-path-r279/) (end_date 2020)
 - ### [Nature Winter v2.3 Black Edition](https://ap-pro.ru/stuff/ten_chernobylja/nature-winter-v23-black-edition-r76/) (end_date 2021)
 - ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/?tab=reviews&sort=newest#review-10755)
-- ### [Погоня за Праздником 2: В Ожидании Чуда...](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/) (end_date 2020)
+- ### [Погоня за Праздником 2: В Ожидании Чуда...](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/?tab=reviews&sort=newest#review-10757)
 - ### [Ночь перед Рождеством](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-r146/) (end_date 2021)
 - ### [Ночь перед Рождеством 2](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-2-r176/) (end_date 2021)
 - ### [Ночь перед Рождеством 3](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-3-r251/) (end_date 2021)
@@ -31,7 +31,7 @@
 - ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567)
 
 ## Зов Припяти
-- ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019)
+- ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
 - ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/?tab=reviews&sort=newest#review-10735)
 - ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/?tab=reviews&sort=newest#review-10720)
 - ### [Пространственная Аномалия 4.1](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/?tab=reviews&sort=newest#review-10721)
