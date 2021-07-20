@@ -24,7 +24,7 @@
 - ### [Ночь перед Рождеством 3](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-3-r251/) (end_date 2021)
 - ### [Ночь перед Рождеством 4](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-4-r300/) (end_date 2021)
 - ### [Возвращение Шрама](https://ap-pro.ru/stuff/ten_chernobylja/vozvrashtenie-shrama-r64/) (end_date 2021)
-- ### [Голос: Эпизод 1](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-1-r219/) (end_date 2020)
+- ### [Голос: Эпизод 1](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-1-r219/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-1-r219/?tab=reviews&sort=newest#review-10765)
 - ### [Голос: Эпизод 2](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/) (end_date 2021)
 - ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/) (end_date 2021)
 - ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/?tab=reviews&sort=newest#review-10764) 
