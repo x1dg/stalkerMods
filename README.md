@@ -27,8 +27,8 @@
 - ### [Голос: Эпизод 1](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-1-r219/) (end_date 2020)
 - ### [Голос: Эпизод 2](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/) (end_date 2021)
 - ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/) (end_date 2021)
-- ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021)
-- ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567)
+- ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567)
+- ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/?tab=reviews&sort=newest#review-10764)
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
@@ -59,4 +59,5 @@
 - ### [Волей Случая](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/) (start_date 13.07.2021 / end_date 15.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/voley-sluchaya-r203/?tab=reviews&sort=newest#review-10683)
 - ### [Путь в Припять](https://ap-pro.ru/stuff/zov_pripjati/put-v-pripyat-r65/) (start_date 15.07.2021 / end_date 17.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-v-pripyat-r65/?tab=reviews&sort=newest#review-10730)
 - ### [Призраки Прошлого](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/) (start_date 17.07.2021 / end_date 19.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/?tab=reviews&sort=newest#review-10743)
-- ### [Призраки Прошлого 2](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-2-r187/) (start_date 17.07.2021 / end_date 19.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-2-r187/?tab=reviews&sort=newest#review-10751)
+- ### [Призраки Прошлого 2](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-2-r187/) (start_date 19.07.2021 / end_date 19.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-2-r187/?tab=reviews&sort=newest#review-10751)
+- ### [На Распутье](https://ap-pro.ru/forums/topic/77-%D0%BD%D0%B0-%D1%80%D0%B0%D1%81%D0%BF%D1%83%D1%82%D1%8C%D0%B5/) (start_date 19.07.2021 / end_date ??.07.2021) [Отзыв]()
