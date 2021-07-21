@@ -20,7 +20,7 @@
 - ### [Погоня за Праздником](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-r210/?tab=reviews&sort=newest#review-10755)
 - ### [Погоня за Праздником 2: В Ожидании Чуда...](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/pogonya-za-prazdnikom-2-v-ozhidanii-chuda-r231/?tab=reviews&sort=newest#review-10757)
 - ### [Ночь перед Рождеством](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-r146/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-r146/?tab=reviews&sort=newest#review-10770)
-- ### [Ночь перед Рождеством 2](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-2-r176/) (end_date 2021)
+- ### [Ночь перед Рождеством 2](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-2-r176/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-2-r176/?tab=reviews&sort=newest#review-10777)
 - ### [Ночь перед Рождеством 3](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-3-r251/) (end_date 2021)
 - ### [Ночь перед Рождеством 4](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-4-r300/) (end_date 2021)
 - ### [Возвращение Шрама](https://ap-pro.ru/stuff/ten_chernobylja/vozvrashtenie-shrama-r64/) (end_date 2021)
