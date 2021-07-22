@@ -6,7 +6,7 @@
 
 ## Тень Чернобыля
 - ### [Lost Alpha](https://ap-pro.ru/stuff/ten_chernobylja/lost-alpha-r129/) (end_date 2014)
-- ### [Апокалипсис](https://ap-pro.ru/stuff/ten_chernobylja/apokalipsis-r44/) (end_date 2021)
+- ### [Апокалипсис](https://ap-pro.ru/stuff/ten_chernobylja/apokalipsis-r44/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/apokalipsis-r44/?tab=reviews&sort=newest#review-10788)
 - ### [Поиск (DIES IRAE)](https://ap-pro.ru/stuff/ten_chernobylja/poisk-dies-irae-r46/) (end_date 2021)
 - ### [Долг. Философия войны](https://ap-pro.ru/stuff/ten_chernobylja/dolg-filosofiya-voyny-r53/) (end_date 2021)
 - ### [Упавшая звезда. Честь наемника](https://ap-pro.ru/stuff/ten_chernobylja/upavshaya-zvezda-chest-naemnika-r94/) (end_date 2021)
