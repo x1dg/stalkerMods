@@ -5,7 +5,7 @@
 - ### [S.T.A.L.K.E.R. Call Of Pripyat](https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/) (end_date 2009)
 
 ## Тень Чернобыля
-- ### [Lost Alpha](https://ap-pro.ru/stuff/ten_chernobylja/lost-alpha-r129/) (end_date 2014)
+- ### [Lost Alpha](https://ap-pro.ru/stuff/ten_chernobylja/lost-alpha-r129/) (end_date 2014) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/lost-alpha-r129/?tab=reviews&sort=newest#review-10810)
 - ### [Апокалипсис](https://ap-pro.ru/stuff/ten_chernobylja/apokalipsis-r44/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/apokalipsis-r44/?tab=reviews&sort=newest#review-10788)
 - ### [Поиск (DIES IRAE)](https://ap-pro.ru/stuff/ten_chernobylja/poisk-dies-irae-r46/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/poisk-dies-irae-r46/?tab=reviews&sort=newest#review-10792)
 - ### [Долг. Философия войны](https://ap-pro.ru/stuff/ten_chernobylja/dolg-filosofiya-voyny-r53/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/dolg-filosofiya-voyny-r53/?tab=reviews&sort=newest#review-10791)
