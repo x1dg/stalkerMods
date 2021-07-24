@@ -61,5 +61,5 @@
 - ### [Призраки Прошлого](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/) (start_date 17.07.2021 / end_date 19.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-r152/?tab=reviews&sort=newest#review-10743)
 - ### [Призраки Прошлого 2](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-2-r187/) (start_date 19.07.2021 / end_date 19.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prizraki-proshlogo-2-r187/?tab=reviews&sort=newest#review-10751)
 - ### [На Распутье](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-r224) (start_date 19.07.2021 / end_date 21.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-r224/?tab=reviews&sort=newest#review-10776)
-- ### [На Распутье 2](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-2-r298/) (start_date 21.07.2021 / end_date 23.07.2021) [Отзыв]()
+- ### [На Распутье 2](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-2-r298/) (start_date 21.07.2021 / end_date 23.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-2-r298/?tab=reviews&sort=newest#review-10807)
 - ### [Ушедшая Душа](hhttps://ap-pro.ru/stuff/zov_pripjati/ushedshaya-dusha-r322/) (start_date 24.07.2021 / end_date ??.07.2021) [Отзыв]()
