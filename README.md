@@ -11,7 +11,7 @@
 - ### [Долг. Философия войны](https://ap-pro.ru/stuff/ten_chernobylja/dolg-filosofiya-voyny-r53/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/dolg-filosofiya-voyny-r53/?tab=reviews&sort=newest#review-10791)
 - ### [Упавшая звезда. Честь наемника](https://ap-pro.ru/stuff/ten_chernobylja/upavshaya-zvezda-chest-naemnika-r94/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/upavshaya-zvezda-chest-naemnika-r94/?tab=reviews&sort=newest#review-10815)
 - ### [Последний Сталкер](https://ap-pro.ru/stuff/ten_chernobylja/posledniy-stalker-r222/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/posledniy-stalker-r222/?tab=reviews&sort=newest#review-10835)
-- ### [Зона Поражения: Новая Эра V2.0 (OGSR Engine)](https://ap-pro.ru/forums/topic/2378-stalker-zona-porazheniya-novaya-era-v20-ogsr-engine/) (end_date 2021)
+- ### [Зона Поражения: Новая Эра V2.0 (OGSR Engine)](https://ap-pro.ru/forums/topic/2378-stalker-zona-porazheniya-novaya-era-v20-ogsr-engine/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zona-porazheniya-r23/?tab=reviews&sort=newest#review-10851)
 - ### [S.T.A.L.K.E.R. F.M.](https://ap-pro.ru/stuff/ten_chernobylja/stalker-fm-r248/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/stalker-fm-r248/?tab=reviews&sort=newest#review-10796)
 - ### [Игра Душ: Новое Начало](https://ap-pro.ru/stuff/ten_chernobylja/igra-dush-novoe-nachalo-r255/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/igra-dush-novoe-nachalo-r255/?tab=reviews&sort=newest#review-10655)
 - ### [Darkest Time: Extended](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/darkest-time-extended-r197/?tab=reviews&sort=newest#review-10661)
@@ -26,7 +26,7 @@
 - ### [Возвращение Шрама](https://ap-pro.ru/stuff/ten_chernobylja/vozvrashtenie-shrama-r64/) (end_date 2021)
 - ### [Голос: Эпизод 1](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-1-r219/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-1-r219/?tab=reviews&sort=newest#review-10765)
 - ### [Голос: Эпизод 2](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/golos-epizod-2-r266/?tab=reviews&sort=newest#review-10767)
-- ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/) (end_date 2021)
+- ### [Тайный Путь](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/taynyy-put-r163/?tab=reviews&sort=newest#review-10850) 
 - ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/?tab=reviews&sort=newest#review-10764) 
 - ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567)
 
