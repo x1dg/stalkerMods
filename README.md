@@ -64,3 +64,4 @@
 - ### [На Распутье 2](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-2-r298/) (start_date 21.07.2021 / end_date 23.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-2-r298/?tab=reviews&sort=newest#review-10807)
 - ### [Ушедшая Душа](https://ap-pro.ru/stuff/zov_pripjati/ushedshaya-dusha-r322/) (start_date 24.07.2021 / end_date 28.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/ushedshaya-dusha-r322/?tab=reviews&sort=newest#review-10827)
 - ### [В западне](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/) (start_date 29.07.2021 / end_date 01.08.2021) [Отзыв]()
+- ### [Парадокс: Начало](https://ap-pro.ru/stuff/ten_chernobylja/paradoks-nachalo-r245/) (start_date 01.08.2021 / end_date 01.08.2021) [Отзыв]()
