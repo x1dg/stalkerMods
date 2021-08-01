@@ -1,4 +1,8 @@
 # Сталкер
+# Модов пройдено:
+## ТЧ: 
+## ЗП:
+
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
 - ### [S.T.A.L.K.E.R. Clear Sky](https://store.steampowered.com/app/20510/STALKER_Clear_Sky/) (end_date  2009)
