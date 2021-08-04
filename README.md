@@ -34,8 +34,8 @@
 - ### [Зачистка](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/) (end_date 2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zachistka-r177/?tab=reviews&sort=newest#review-10764) 
 - ### [В Аду... "ПСЫ"](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/) (end_date 02.07.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/vadupsy/?tab=reviews&sort=newest#review-10567)
 - ### [История Борланда. Пролог](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borlanda-prolog-r220/) (start_date 02.08.2021 / end_date 02.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borlanda-prolog-r220/?tab=reviews&sort=newest#review-10900)
-- ### [Hibernation Evil - Эпизод I](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-i-r262/) (start_date 03.08.2021 / end_date 03.08.2021)  [Отзыв]()
-- ### [Hibernation Evil - Эпизод II](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-ii-r302/) (start_date 03.08.2021 / end_date ??.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-i-r262/?tab=reviews&sort=newest#review-10902)
+- ### [Hibernation Evil - Эпизод I](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-i-r262/) (start_date 03.08.2021 / end_date 03.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-i-r262/?tab=reviews&sort=newest#review-10902)
+- ### [Hibernation Evil - Эпизод II](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-ii-r302/) (start_date 03.08.2021 / end_date 04.08.2021)  [Отзыв]()
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
