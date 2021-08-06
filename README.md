@@ -73,5 +73,5 @@
 - ### [Ушедшая Душа](https://ap-pro.ru/stuff/zov_pripjati/ushedshaya-dusha-r322/) (start_date 24.07.2021 / end_date 28.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/ushedshaya-dusha-r322/?tab=reviews&sort=newest#review-10827)
 - ### [В западне](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/) (start_date 29.07.2021 / end_date 01.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/?tab=reviews&sort=newest#review-10896)
 - ### [Парадокс: Начало](https://ap-pro.ru/stuff/ten_chernobylja/paradoks-nachalo-r245/) (start_date 01.08.2021 / end_date 01.08.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/paradoks-nachalo-r245/?tab=reviews&sort=newest#review-10897)
-- ### [Looking Back](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/) (start_date 05.08.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [Looking Back](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/) (start_date 05.08.2021 / end_date 06.08.2021) [Отзыв]()
 - ### [Камень Преткновения. Пролог](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/) (start_date ??.08.2021 / end_date ??.08.2021) [Отзыв]()
