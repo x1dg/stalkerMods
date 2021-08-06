@@ -1,7 +1,7 @@
 # Сталкер
-# Модов пройдено: 63
+# Модов пройдено: 64
 ## ТЧ: 28
-## ЗП: 35
+## ЗП: 36
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -74,4 +74,4 @@
 - ### [В западне](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/) (start_date 29.07.2021 / end_date 01.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/?tab=reviews&sort=newest#review-10896)
 - ### [Парадокс: Начало](https://ap-pro.ru/stuff/ten_chernobylja/paradoks-nachalo-r245/) (start_date 01.08.2021 / end_date 01.08.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/paradoks-nachalo-r245/?tab=reviews&sort=newest#review-10897)
 - ### [Looking Back](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/) (start_date 05.08.2021 / end_date 06.08.2021) [Отзыв]()
-- ### [Камень Преткновения. Пролог](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/) (start_date 06.08.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [Камень Преткновения. Пролог](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/) (start_date 06.08.2021 / end_date 07.08.2021) [Отзыв]()
