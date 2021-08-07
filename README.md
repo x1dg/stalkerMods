@@ -38,7 +38,7 @@
 - ### [Hibernation Evil - Эпизод II](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-ii-r302/) (start_date 03.08.2021 / end_date 04.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-ii-r302/?tab=reviews&sort=newest#review-10949)
 - ### [Hibernation Evil - Эпизод III](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/) (start_date 04.08.2021 / end_date 05.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/?tab=reviews&sort=newest#review-10954)
 - ### [История Борова 3.0](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/) (start_date 07.08.2021 / end_date ??.08.2021)  [Отзыв]()
-- 
+
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
 - ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/?tab=reviews&sort=newest#review-10735)
