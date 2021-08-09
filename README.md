@@ -1,6 +1,6 @@
 # Сталкер
-# Модов пройдено: 66
-## ТЧ: 29
+# Модов пройдено: 67
+## ТЧ: 30
 ## ЗП: 37
 
 ## Vanila
@@ -38,7 +38,7 @@
 - ### [Hibernation Evil - Эпизод II](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-ii-r302/) (start_date 03.08.2021 / end_date 04.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-ii-r302/?tab=reviews&sort=newest#review-10949)
 - ### [Hibernation Evil - Эпизод III](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/) (start_date 04.08.2021 / end_date 05.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/?tab=reviews&sort=newest#review-10954)
 - ### [История Борова 3.0](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/) (start_date 07.08.2021 / end_date 08.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/?tab=reviews&sort=newest#review-10970)
-- ### [SFZ Project: Epizode Zero](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/) (start_date 08.08.2021 / end_date ??.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/?tab=reviews&sort=newest#review-10971)
+- ### [SFZ Project: Epizode Zero](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/) (start_date 08.08.2021 / end_date 10.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/?tab=reviews&sort=newest#review-10971)
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
@@ -78,3 +78,4 @@
 - ### [Looking Back](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/) (start_date 05.08.2021 / end_date 06.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/?tab=reviews&sort=newest#review-10956)
 - ### [Камень Преткновения. Пролог](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/) (start_date 06.08.2021 / end_date 07.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/?tab=reviews&sort=newest#review-10965)
 - ### [Операция Чёрное гнездо](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/) (start_date 08.08.2021 / end_date 08.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/?tab=reviews&sort=newest#review-10968)
+- ### [Как вступить в "Долг"?](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/) (start_date 10.08.2021 / end_date ??.08.2021) [Отзыв]()
