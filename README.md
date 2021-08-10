@@ -1,7 +1,7 @@
 # Сталкер
-# Модов пройдено: 67
+# Модов пройдено: 68
 ## ТЧ: 30
-## ЗП: 37
+## ЗП: 38
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -78,4 +78,4 @@
 - ### [Looking Back](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/) (start_date 05.08.2021 / end_date 06.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/?tab=reviews&sort=newest#review-10956)
 - ### [Камень Преткновения. Пролог](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/) (start_date 06.08.2021 / end_date 07.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/?tab=reviews&sort=newest#review-10965)
 - ### [Операция Чёрное гнездо](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/) (start_date 08.08.2021 / end_date 08.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/?tab=reviews&sort=newest#review-10968)
-- ### [Как вступить в "Долг"?](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/) (start_date 10.08.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [Как вступить в "Долг"?](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/) (start_date 10.08.2021 / end_date 11.08.2021) [Отзыв]()
