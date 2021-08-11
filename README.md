@@ -79,3 +79,4 @@
 - ### [Камень Преткновения. Пролог](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/) (start_date 06.08.2021 / end_date 07.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/?tab=reviews&sort=newest#review-10965)
 - ### [Операция Чёрное гнездо](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/) (start_date 08.08.2021 / end_date 08.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/?tab=reviews&sort=newest#review-10968)
 - ### [Как вступить в "Долг"?](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/) (start_date 10.08.2021 / end_date 11.08.2021) [Отзыв]()
+- ### [Белый Отряд v2.0](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/) (start_date 11.08.2021 / end_date ??.08.2021) [Отзыв]()
