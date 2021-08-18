@@ -39,7 +39,7 @@
 - ### [Hibernation Evil - Эпизод III](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/) (start_date 04.08.2021 / end_date 05.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/?tab=reviews&sort=newest#review-10954)
 - ### [История Борова 3.0](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/) (start_date 07.08.2021 / end_date 08.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/?tab=reviews&sort=newest#review-10970)
 - ### [SFZ Project: Epizode Zero](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/) (start_date 08.08.2021 / end_date 10.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/?tab=reviews&sort=newest#review-10971)
-- ### [Закоулки правды](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв]()
+- ### [Закоулки правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв]()
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
