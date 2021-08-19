@@ -40,14 +40,14 @@
 - ### [Hibernation Evil - Эпизод III](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/) (start_date 04.08.2021 / end_date 05.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hibernation-evil-epizod-iii-r324/?tab=reviews&sort=newest#review-10954)
 - ### [История Борова 3.0](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/) (start_date 07.08.2021 / end_date 08.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/?tab=reviews&sort=newest#review-10970)
 - ### [SFZ Project: Epizode Zero](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/) (start_date 08.08.2021 / end_date 10.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/?tab=reviews&sort=newest#review-10971)
-- ### [Закоулки правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/?tab=reviews&sort=newest#review-11039)
+- ### [Закоулки Правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/?tab=reviews&sort=newest#review-11039)
 
 ## Чистое Небо
-- ### [Ермак: последний рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date ??.08.2021) [Отзыв]()
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
-- ### [Путь во мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/?tab=reviews&sort=newest#review-10735)
+- ### [Путь во Мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/?tab=reviews&sort=newest#review-10735)
 - ### [Игра Душ: Эксельсиор](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/igra-dush-ekselsior-r242/?tab=reviews&sort=newest#review-10721)
 - ### [Пространственная Аномалия 4.1](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/prostranstvennaya-anomaliya-41-r151/?tab=reviews&sort=newest#review-10720)
 - ### [Долина Шорохов + Gunslinger Mod](https://ap-pro.ru/forums/topic/2217-dolina-shorohov-gunslinger-mod/) (end_date 2020) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/dolina-shorohov-r97/?tab=reviews&sort=newest#review-10711)
@@ -78,7 +78,7 @@
 - ### [На Распутье](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-r224) (start_date 19.07.2021 / end_date 21.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-r224/?tab=reviews&sort=newest#review-10776)
 - ### [На Распутье 2](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-2-r298/) (start_date 21.07.2021 / end_date 23.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/na-raspute-2-r298/?tab=reviews&sort=newest#review-10807)
 - ### [Ушедшая Душа](https://ap-pro.ru/stuff/zov_pripjati/ushedshaya-dusha-r322/) (start_date 24.07.2021 / end_date 28.07.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/ushedshaya-dusha-r322/?tab=reviews&sort=newest#review-10827)
-- ### [В западне](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/) (start_date 29.07.2021 / end_date 01.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/?tab=reviews&sort=newest#review-10896)
+- ### [В Западне](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/) (start_date 29.07.2021 / end_date 01.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/v-zapadne-r228/?tab=reviews&sort=newest#review-10896)
 - ### [Парадокс: Начало](https://ap-pro.ru/stuff/ten_chernobylja/paradoks-nachalo-r245/) (start_date 01.08.2021 / end_date 01.08.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/paradoks-nachalo-r245/?tab=reviews&sort=newest#review-10897)
 - ### [Looking Back](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/) (start_date 05.08.2021 / end_date 06.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/looking-back-r313/?tab=reviews&sort=newest#review-10956)
 - ### [Камень Преткновения. Пролог](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/) (start_date 06.08.2021 / end_date 07.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kamen-pretknoveniya-prolog-r217/?tab=reviews&sort=newest#review-10965)
