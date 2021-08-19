@@ -1,7 +1,7 @@
 # Сталкер
-# Модов пройдено: 70
+# Модов пройдено: 71
 ## ТЧ: 31
-## ЗП: 39
+## ЗП: 40
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -81,4 +81,4 @@
 - ### [Операция Чёрное гнездо](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/) (start_date 08.08.2021 / end_date 08.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/?tab=reviews&sort=newest#review-10968)
 - ### [Как вступить в "Долг"?](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/) (start_date 10.08.2021 / end_date 11.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/?tab=reviews&sort=newest#review-10982)
 - ### [Белый Отряд v2.0](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/) (start_date 11.08.2021 / end_date 12.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/?tab=reviews&sort=newest#review-10992)
-- ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date 20.08.2021) [Отзыв]()
