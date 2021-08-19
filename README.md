@@ -43,7 +43,7 @@
 - ### [Закоулки правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/?tab=reviews&sort=newest#review-11039)
 
 ## Чистое Небо
-- ### [Lost Alpha](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date ??.08.2021) [Отзыв]()
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
