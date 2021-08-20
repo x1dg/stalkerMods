@@ -1,7 +1,7 @@
 # Сталкер
-# Модов пройдено: 71
+# Модов пройдено: 72
 ## ТЧ: 31
-## ЧН: 0
+## ЧН: 1
 ## ЗП: 40
 
 ## Vanila
@@ -43,7 +43,7 @@
 - ### [Закоулки Правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/?tab=reviews&sort=newest#review-11039)
 
 ## Чистое Небо
-- ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв]()
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
