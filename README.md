@@ -41,6 +41,7 @@
 - ### [История Борова 3.0](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/) (start_date 07.08.2021 / end_date 08.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istoriya-borova-r180/?tab=reviews&sort=newest#review-10970)
 - ### [SFZ Project: Epizode Zero](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/) (start_date 08.08.2021 / end_date 10.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/?tab=reviews&sort=newest#review-10971)
 - ### [Закоулки Правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/?tab=reviews&sort=newest#review-11039)
+- ### [Тайные Тропы 2 (OGSR Engine)](https://ap-pro.ru/forums/topic/820-taynye-tropy-2-na-ogsr-engine/) (start_date 20.08.2021 / end_date ??.08.2021)  [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
