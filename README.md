@@ -43,8 +43,9 @@
 - ### [Закоулки Правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/?tab=reviews&sort=newest#review-11039)
 
 ## Чистое Небо
-- ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв]()
-
+- ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
+- ### [Ермак: Пути Неисповедимы](https://ap-pro.ru/stuff/chistoe_nebo/ermak-puti-neispovedimy-r326/) (start_date 20.08.2021 / end_date ??.08.2021) [Отзыв]()
+- 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
 - ### [Путь во Мгле](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/put-vo-mgle-r134/?tab=reviews&sort=newest#review-10735)
@@ -85,4 +86,4 @@
 - ### [Операция Чёрное гнездо](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/) (start_date 08.08.2021 / end_date 08.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/operaciya-chyornoe-gnezdo-r271/?tab=reviews&sort=newest#review-10968)
 - ### [Как вступить в "Долг"?](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/) (start_date 10.08.2021 / end_date 11.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/?tab=reviews&sort=newest#review-10982)
 - ### [Белый Отряд v2.0](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/) (start_date 11.08.2021 / end_date 12.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/?tab=reviews&sort=newest#review-10992)
-- ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date 20.08.2021) [Отзыв]()
+- ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/?tab=reviews&sort=newest#review-11042)
