@@ -88,4 +88,4 @@
 - ### [Как вступить в "Долг"?](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/) (start_date 10.08.2021 / end_date 11.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/kak-vstupit-v-dolg-r131/?tab=reviews&sort=newest#review-10982)
 - ### [Белый Отряд v2.0](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/) (start_date 11.08.2021 / end_date 12.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/?tab=reviews&sort=newest#review-10992)
 - ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/?tab=reviews&sort=newest#review-11042)
-- ### [Искатель](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/) (start_date 22.08.2021 / end_date 22.08.2021) [Отзыв]()
+- ### [Искатель](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/) (start_date 22.08.2021 / end_date 22.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/?tab=reviews&sort=newest#review-11055)
