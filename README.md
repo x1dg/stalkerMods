@@ -1,8 +1,8 @@
 # Сталкер
-# Модов пройдено: 75
+# Модов пройдено: 76
 ## ТЧ: 32
 ## ЧН: 2
-## ЗП: 41
+## ЗП: 42
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -46,6 +46,7 @@
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
 - ### [Ермак: Пути Неисповедимы](https://ap-pro.ru/stuff/chistoe_nebo/ermak-puti-neispovedimy-r326/) (start_date 20.08.2021 / end_date 21.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-puti-neispovedimy-r326/?tab=reviews&sort=newest#review-11051)
+- ### [Ермак: Последний Рейд REDUX](https://ap-pro.ru/forums/topic/2883-ermaklast-raid-redux/) (start_date 04.09.2021 / end_date ??.09.2021) [Отзыв]()
 
 ## Зов Припяти
 - ### [Ветер Времени](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/) (end_date 2019) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/?tab=reviews&sort=newest#review-10756)
@@ -89,4 +90,4 @@
 - ### [Белый Отряд v2.0](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/) (start_date 11.08.2021 / end_date 12.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/belyy-otryad-r149/?tab=reviews&sort=newest#review-10992)
 - ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/?tab=reviews&sort=newest#review-11042)
 - ### [Искатель](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/) (start_date 22.08.2021 / end_date 22.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/?tab=reviews&sort=newest#review-11055)
-- ### [D.E.V.I.L.R.Y.](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/) (start_date 04.09.2021 / end_date ??.08.2021) [Отзыв]()
+- ### [D.E.V.I.L.R.Y.](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/) (start_date 04.09.2021 / end_date 04.08.2021) [Отзыв]()
