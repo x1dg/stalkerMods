@@ -1,6 +1,6 @@
 # Сталкер
-# Модов пройдено: 77
-## ТЧ: 32
+# Модов пройдено: 78
+## ТЧ: 33
 ## ЧН: 3
 ## ЗП: 42
 
@@ -42,7 +42,7 @@
 - ### [SFZ Project: Epizode Zero](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/) (start_date 08.08.2021 / end_date 10.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-episode-zero-r263/?tab=reviews&sort=newest#review-10971)
 - ### [Закоулки Правды](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/) (start_date 13.08.2021 / end_date 19.08.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/zakoulki-pravdy-r95/?tab=reviews&sort=newest#review-11039)
 - ### [Тайные Тропы 2 (OGSR Engine)](https://ap-pro.ru/forums/topic/820-taynye-tropy-2-na-ogsr-engine/) (start_date 20.08.2021 / end_date 04.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/taynye-tropy-2-r41/?tab=reviews&sort=newest#review-11133)
-- ### [EPILOGUE](https://ap-pro.ru/forums/topic/499-epilogue/) (start_date 05.09.2021 / end_date 05.09.2021)  [Отзыв]()
+- ### [EPILOGUE](https://ap-pro.ru/forums/topic/499-epilogue/) (start_date 05.09.2021 / end_date 07.09.2021)  [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
@@ -92,3 +92,4 @@
 - ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/?tab=reviews&sort=newest#review-11042)
 - ### [Искатель](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/) (start_date 22.08.2021 / end_date 22.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/?tab=reviews&sort=newest#review-11055)
 - ### [D.E.V.I.L.R.Y.](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/) (start_date 04.09.2021 / end_date 04.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/?tab=reviews&sort=newest#review-11145)
+- ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date ??.09.2021) [Отзыв]()
