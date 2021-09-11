@@ -1,8 +1,8 @@
 # Сталкер
-# Модов пройдено: 78
+# Модов пройдено: 79
 ## ТЧ: 33
 ## ЧН: 3
-## ЗП: 42
+## ЗП: 43
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -92,4 +92,4 @@
 - ### [История Кота](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/) (start_date 19.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-kota-r252/?tab=reviews&sort=newest#review-11042)
 - ### [Искатель](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/) (start_date 22.08.2021 / end_date 22.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/?tab=reviews&sort=newest#review-11055)
 - ### [D.E.V.I.L.R.Y.](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/) (start_date 04.09.2021 / end_date 04.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/?tab=reviews&sort=newest#review-11145)
-- ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date ??.09.2021) [Отзыв]()
+- ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date 11.09.2021) [Отзыв]()
