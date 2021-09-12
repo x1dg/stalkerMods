@@ -94,3 +94,4 @@
 - ### [Искатель](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/) (start_date 22.08.2021 / end_date 22.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/?tab=reviews&sort=newest#review-11055)
 - ### [D.E.V.I.L.R.Y.](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/) (start_date 04.09.2021 / end_date 04.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/?tab=reviews&sort=newest#review-11145)
 - ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date 11.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/?tab=reviews&sort=newest#review-11178)
+- ### [Припять. Точка отсчета](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/) (start_date 13.09.2021 / end_date ??.09.2021) [Отзыв]()
