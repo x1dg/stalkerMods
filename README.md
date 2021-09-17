@@ -1,8 +1,8 @@
 # Сталкер
-# Модов пройдено: 80
+# Модов пройдено: 81
 ## ТЧ: 34
 ## ЧН: 3
-## ЗП: 43
+## ЗП: 44
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -94,4 +94,5 @@
 - ### [Искатель](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/) (start_date 22.08.2021 / end_date 22.08.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/iskatel-r291/?tab=reviews&sort=newest#review-11055)
 - ### [D.E.V.I.L.R.Y.](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/) (start_date 04.09.2021 / end_date 04.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/devilry-r328/?tab=reviews&sort=newest#review-11145)
 - ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date 11.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/?tab=reviews&sort=newest#review-11178)
-- ### [Припять. Точка отсчета](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/) (start_date 13.09.2021 / end_date ??.09.2021) [Отзыв]()
+- ### [Припять. Точка отсчета](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/) (start_date 13.09.2021 / end_date 17.09.2021) [Отзыв]()
+- ### [Aliens Time: Глава 1](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/) (start_date 17.09.2021 / end_date ??.09.2021) [Отзыв]()
