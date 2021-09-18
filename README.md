@@ -44,6 +44,7 @@
 - ### [Тайные Тропы 2 (OGSR Engine)](https://ap-pro.ru/forums/topic/820-taynye-tropy-2-na-ogsr-engine/) (start_date 20.08.2021 / end_date 04.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/taynye-tropy-2-r41/?tab=reviews&sort=newest#review-11133)
 - ### [EPILOGUE](https://ap-pro.ru/forums/topic/499-epilogue/) (start_date 05.09.2021 / end_date 07.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/epilogue-r119/?tab=reviews&sort=newest#review-11157)
 - ### [Истинный путь v.1.3](https://ap-pro.ru/stuff/ten_chernobylja/istinnyy-put-v13-r320/?tab=reviews) (start_date 11.09.2021 / end_date 13.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istinnyy-put-v13-r320/?tab=reviews&sort=newest#review-11190)
+- ### [TyrboDizel](https://ap-pro.ru/stuff/ten_chernobylja/tyrbodizel-r333/) (start_date 19.09.2021 / end_date ??.09.2021)  [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
@@ -96,5 +97,3 @@
 - ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date 11.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/?tab=reviews&sort=newest#review-11178)
 - ### [Припять. Точка отсчета](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/) (start_date 13.09.2021 / end_date 17.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/?tab=reviews&sort=newest#review-11210)
 - ### [Aliens Time: Глава 1](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/) (start_date 17.09.2021 / end_date 18.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/?tab=reviews&sort=newest#review-11215)
-- ### [Road To The North](https://ap-pro.ru/stuff/zov_pripjati/road-to-the-north-r226/) (start_date 18.09.2021 / end_date ??.09.2021) [Отзыв]()
-- ### [Aliens Time: Глава 1](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/) (start_date 17.09.2021 / end_date 18.09.2021) [Отзыв]()
