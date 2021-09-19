@@ -44,7 +44,8 @@
 - ### [Тайные Тропы 2 (OGSR Engine)](https://ap-pro.ru/forums/topic/820-taynye-tropy-2-na-ogsr-engine/) (start_date 20.08.2021 / end_date 04.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/taynye-tropy-2-r41/?tab=reviews&sort=newest#review-11133)
 - ### [EPILOGUE](https://ap-pro.ru/forums/topic/499-epilogue/) (start_date 05.09.2021 / end_date 07.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/epilogue-r119/?tab=reviews&sort=newest#review-11157)
 - ### [Истинный путь v.1.3](https://ap-pro.ru/stuff/ten_chernobylja/istinnyy-put-v13-r320/?tab=reviews) (start_date 11.09.2021 / end_date 13.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istinnyy-put-v13-r320/?tab=reviews&sort=newest#review-11190)
-
+- ### [AVS: Закон Меченого](https://ap-pro.ru/stuff/ten_chernobylja/avs-zakon-mechenogo-chast-1-i-2-r78/) (start_date 19.09.2021 / end_date ??.09.2021)  [Отзыв]()
+- 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
 - ### [Ермак: Пути Неисповедимы](https://ap-pro.ru/stuff/chistoe_nebo/ermak-puti-neispovedimy-r326/) (start_date 20.08.2021 / end_date 21.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-puti-neispovedimy-r326/?tab=reviews&sort=newest#review-11051)
