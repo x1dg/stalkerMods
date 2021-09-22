@@ -2,7 +2,7 @@
 # Модов пройдено: 83
 ## ТЧ: 35
 ## ЧН: 3
-## ЗП: 44
+## ЗП: 45
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
