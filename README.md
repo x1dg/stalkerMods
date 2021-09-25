@@ -46,6 +46,7 @@
 - ### [Истинный путь v.1.3](https://ap-pro.ru/stuff/ten_chernobylja/istinnyy-put-v13-r320/?tab=reviews) (start_date 11.09.2021 / end_date 13.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/istinnyy-put-v13-r320/?tab=reviews&sort=newest#review-11190)
 - ### [AVS: Закон Меченого](https://ap-pro.ru/stuff/ten_chernobylja/avs-zakon-mechenogo-chast-1-i-2-r78/) (start_date 19.09.2021 / end_date 21.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/avs-zakon-mechenogo-chast-1-i-2-r78/?tab=reviews&sort=newest#review-11235)
 - ### [Обреченный город](https://ap-pro.ru/stuff/ten_chernobylja/obrechyonnyy-gorod-r30/) (start_date 23.09.2021 / end_date 25.09.2021)  [Отзыв]()
+- ### [Новое Время](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-r223/) (start_date 26.09.2021 / end_date ??.09.2021)  [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
