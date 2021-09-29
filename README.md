@@ -99,3 +99,4 @@
 - ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date 11.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/?tab=reviews&sort=newest#review-11178)
 - ### [Припять. Точка отсчета](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/) (start_date 13.09.2021 / end_date 17.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/?tab=reviews&sort=newest#review-11210)
 - ### [Aliens Time: Глава 1](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/) (start_date 17.09.2021 / end_date 18.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/?tab=reviews&sort=newest#review-11215)
+- ### [The Journey](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/) (start_date 29.09.2021 / end_date ??.09.2021) [Отзыв]()
