@@ -1,6 +1,6 @@
 # Сталкер
-# Модов пройдено: 85
-## ТЧ: 36
+# Модов пройдено: 86
+## ТЧ: 37
 ## ЧН: 3
 ## ЗП: 46
 
@@ -47,7 +47,7 @@
 - ### [AVS: Закон Меченого](https://ap-pro.ru/stuff/ten_chernobylja/avs-zakon-mechenogo-chast-1-i-2-r78/) (start_date 19.09.2021 / end_date 21.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/avs-zakon-mechenogo-chast-1-i-2-r78/?tab=reviews&sort=newest#review-11235)
 - ### [Обреченный город](https://ap-pro.ru/stuff/ten_chernobylja/obrechyonnyy-gorod-r30/) (start_date 23.09.2021 / end_date 25.09.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/obrechyonnyy-gorod-r30/?tab=reviews&sort=newest#review-11268)
 - ### [Новое Время](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-r223/) (start_date 26.09.2021 / end_date ??.09.2021)  [Отзыв]()
-- ### [Новое Время. Судьба Наемника](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/) (start_date 01.10.2021 / end_date ??.10.2021)  [Отзыв]()
+- ### [Новое Время. Судьба Наемника](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/) (start_date 01.10.2021 / end_date 02.10.2021)  [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
@@ -100,4 +100,5 @@
 - ### [Под прикрытием смерти. Клондайк 2.0](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/) (start_date 07.09.2021 / end_date 11.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pod-prikrytiem-smerti-klondayk-20-r144/?tab=reviews&sort=newest#review-11178)
 - ### [Припять. Точка отсчета](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/) (start_date 13.09.2021 / end_date 17.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/?tab=reviews&sort=newest#review-11210)
 - ### [Aliens Time: Глава 1](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/) (start_date 17.09.2021 / end_date 18.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/?tab=reviews&sort=newest#review-11215)
-- ### [The Journey](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/) (start_date 29.09.2021 / end_date 01.10.2021) [Отзыв]()
+- ### [The Journey](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/) (start_date 29.09.2021 / end_date 01.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/?do=findReview&review=11285)
+- ### [SZM CoP 0.2](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/) (start_date 02.10.2021 / end_date ??.10.2021) [Отзыв]()
