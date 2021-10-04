@@ -102,5 +102,5 @@
 - ### [Припять. Точка отсчета](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/) (start_date 13.09.2021 / end_date 17.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/pripyat-tochka-otscheta-r154/?tab=reviews&sort=newest#review-11210)
 - ### [Aliens Time: Глава 1](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/) (start_date 17.09.2021 / end_date 18.09.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/aliens-time-glava-1-r96/?tab=reviews&sort=newest#review-11215)
 - ### [The Journey](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/) (start_date 29.09.2021 / end_date 01.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/?do=findReview&review=11285)
-- ### [The Second Sun](https://ap-pro.ru/stuff/zov_pripjati/the-second-sun-r234/) (start_date 03.10.2021 / end_date 04.10.2021) [Отзыв]()
+- ### [The Second Sun](https://ap-pro.ru/stuff/zov_pripjati/the-second-sun-r234/) (start_date 03.10.2021 / end_date 04.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/the-second-sun-r234/?tab=reviews&sort=newest#review-11302)
 - ### [The Project Medeiros](https://ap-pro.ru/stuff/zov_pripjati/the-project-medeiros-r148/) (start_date 04.10.2021 / end_date ??.10.2021) [Отзыв]()
