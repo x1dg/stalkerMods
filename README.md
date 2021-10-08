@@ -1,8 +1,8 @@
 # Сталкер
-# Модов пройдено: 89
+# Модов пройдено: 90
 ## ТЧ: 38
 ## ЧН: 3
-## ЗП: 48
+## ЗП: 49
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -104,4 +104,4 @@
 - ### [The Journey](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/) (start_date 29.09.2021 / end_date 01.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/the-journey-r329/?do=findReview&review=11285)
 - ### [The Second Sun](https://ap-pro.ru/stuff/zov_pripjati/the-second-sun-r234/) (start_date 03.10.2021 / end_date 04.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/the-second-sun-r234/?tab=reviews&sort=newest#review-11302)
 - ### [The Project Medeiros](https://ap-pro.ru/stuff/zov_pripjati/the-project-medeiros-r148/) (start_date 04.10.2021 / end_date 06.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/the-project-medeiros-r148/?tab=reviews&sort=newest#review-11313)
-- ### [SZM CoP 0.2](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/) (start_date 06.10.2021 / end_date ??.10.2021) [Отзыв]()
+- ### [SZM CoP 0.2](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/) (start_date 06.10.2021 / end_date 08.10.2021) [Отзыв]()
