@@ -1,6 +1,6 @@
 # Сталкер
-# Модов пройдено: 90
-## ТЧ: 38
+# Модов пройдено: 91
+## ТЧ: 39
 ## ЧН: 3
 ## ЗП: 49
 
@@ -49,7 +49,7 @@
 - ### [Новое Время](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-r223/) (start_date 26.09.2021 / end_date ??.09.2021)  [Отзыв]()
 - ### [Новое Время. Судьба Наемника](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/) (start_date 01.10.2021 / end_date 02.10.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/?tab=reviews&sort=newest#review-11288)
 - ### [Новое Время. Научный Подход](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/) (start_date 02.10.2021 / end_date 03.10.2021)  [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-nauchnyy-podhod-r259/?tab=reviews&sort=newest#review-11293)
-- ### [Save and Protect: Killer](https://ap-pro.ru/stuff/ten_chernobylja/save-and-protect-killer-r157/) (start_date 08.10.2021 / end_date ??.10.2021)  [Отзыв]()
+- ### [Save and Protect: Killer](https://ap-pro.ru/stuff/ten_chernobylja/save-and-protect-killer-r157/) (start_date 08.10.2021 / end_date 11.10.2021)  [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
