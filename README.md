@@ -108,4 +108,4 @@
 - ### [The Project Medeiros](https://ap-pro.ru/stuff/zov_pripjati/the-project-medeiros-r148/) (start_date 04.10.2021 / end_date 06.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/the-project-medeiros-r148/?tab=reviews&sort=newest#review-11313)
 - ### [SZM CoP 0.2](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/) (start_date 06.10.2021 / end_date 08.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/?tab=reviews&sort=newest#review-11322)
 - ### [Золотой обоз](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/) (start_date 15.10.2021 / end_date 17.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/?tab=reviews&sort=newest#review-11360)
-- ### [Золотой обоз 2](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/) (start_date 17.10.2021 / end_date 26.10.2021) [Отзыв]()
+- ### [Золотой обоз 2](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/) (start_date 17.10.2021 / end_date 26.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/?tab=reviews&sort=newest#review-11394)
