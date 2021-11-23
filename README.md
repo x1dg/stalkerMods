@@ -50,7 +50,7 @@
 - ### [Новое Время. Судьба Наемника](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/) (start_date 01.10.2021 / end_date 02.10.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/?tab=reviews&sort=newest#review-11288)
 - ### [Новое Время. Научный Подход](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-sudba-naemnika-r235/) (start_date 02.10.2021 / end_date 03.10.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/novoe-vremya-nauchnyy-podhod-r259/?tab=reviews&sort=newest#review-11293)
 - ### [Save and Protect: Killer](https://ap-pro.ru/stuff/ten_chernobylja/save-and-protect-killer-r157/) (start_date 08.10.2021 / end_date 11.10.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/save-and-protect-killer-r157/?tab=reviews&sort=newest#review-11329)
-- ### [Priboi Story - Eternal](https://ap-pro.ru/forums/topic/2963-priboi-story-eternal-ogsr/) (start_date 26.10.2021 / end_date 04.11.2021) [Отзыв]()
+- ### [Priboi Story - Eternal](https://ap-pro.ru/forums/topic/2963-priboi-story-eternal-ogsr/) (start_date 26.10.2021 / end_date 04.11.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/priboi-story-r25/?tab=reviews&sort=newest#review-11583)
 - ### [Golden Sphere on OGSR Engine](https://ap-pro.ru/forums/topic/2545-golden-sphere-on-ogsr-engine/) (start_date 04.11.2021 / end_date ??) *[IN PROGRESS]*
 
 ## Чистое Небо
