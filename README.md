@@ -1,8 +1,8 @@
 # Сталкер
-# Модов пройдено: 95
+# Модов пройдено: 96
 ## ТЧ: 41
 ## ЧН: 3
-## ЗП: 51
+## ЗП: 52
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -110,4 +110,4 @@
 - ### [SZM CoP 0.2](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/) (start_date 06.10.2021 / end_date 08.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/?tab=reviews&sort=newest#review-11322)
 - ### [Золотой обоз](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/) (start_date 15.10.2021 / end_date 17.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/?tab=reviews&sort=newest#review-11360)
 - ### [Золотой обоз 2](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/) (start_date 17.10.2021 / end_date 26.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/?tab=reviews&sort=newest#review-11394)
-- ### [История Джона](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/) (start_date 24.11.2021 / end_date ??) *[IN PROGRESS]*
+- ### [История Джона](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/) (start_date 24.11.2021 / end_date 29.11.2021) [Отзыв]()
