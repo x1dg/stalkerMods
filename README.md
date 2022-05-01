@@ -55,7 +55,7 @@
 - ### [Хроники Кайдана. Первая серия](https://ap-pro.ru/stuff/ten_chernobylja/hroniki-kaydana-pervaya-seriya-r256/) (start_date 15.12.2021 / end_date 31.12.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hroniki-kaydana-pervaya-seriya-r256/?tab=reviews&sort=newest#review-11796)
 - ### [SFZ Project: Lost Story](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-lost-story-r340/) (start_date 31.12.2021 / end_date 07.01.2022) [Отзыв]()
 - ### [Ночь Перед Рождеством 5](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/) (start_date 07.01.2022 / end_date 13.01.2022) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/?tab=reviews&sort=newest#review-11910)
-- ### [OGSR:GA](https://ap-pro.ru/forums/topic/3463-ogsr-gunslinger-addon-obt/) (start_date 01.05.2022 / end_date ???) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/?tab=reviews&sort=newest#review-11910)
+- ### [OGSR:GA](https://ap-pro.ru/forums/topic/3463-ogsr-gunslinger-addon-obt/) (start_date 01.05.2022 / end_date ???) [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
