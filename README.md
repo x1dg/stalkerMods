@@ -55,6 +55,7 @@
 - ### [Хроники Кайдана. Первая серия](https://ap-pro.ru/stuff/ten_chernobylja/hroniki-kaydana-pervaya-seriya-r256/) (start_date 15.12.2021 / end_date 31.12.2021) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/hroniki-kaydana-pervaya-seriya-r256/?tab=reviews&sort=newest#review-11796)
 - ### [SFZ Project: Lost Story](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-lost-story-r340/) (start_date 31.12.2021 / end_date 07.01.2022) [Отзыв]()
 - ### [Ночь Перед Рождеством 5](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/) (start_date 07.01.2022 / end_date 13.01.2022) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/?tab=reviews&sort=newest#review-11910)
+- ### [OGSR:GA](https://ap-pro.ru/forums/topic/3463-ogsr-gunslinger-addon-obt/) (start_date 01.05.2022 / end_date ???) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/?tab=reviews&sort=newest#review-11910)
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
@@ -113,4 +114,4 @@
 - ### [SZM CoP 0.2](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/) (start_date 06.10.2021 / end_date 08.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/szm-cop-02-r57/?tab=reviews&sort=newest#review-11322)
 - ### [Золотой обоз](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/) (start_date 15.10.2021 / end_date 17.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/?tab=reviews&sort=newest#review-11360)
 - ### [Золотой обоз 2](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/) (start_date 17.10.2021 / end_date 26.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/?tab=reviews&sort=newest#review-11394)
-- ### [История Джона](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/) (start_date 24.11.2021 / end_date 29.11.2021) [Отзыв]()
+- ### [История Джона](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/) (start_date 24.11.2021 / end_date 29.11.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/?do=findReview&review=11624)
