@@ -116,3 +116,4 @@
 - ### [Золотой обоз 2](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/) (start_date 17.10.2021 / end_date 26.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/?tab=reviews&sort=newest#review-11394)
 - ### [История Джона](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/) (start_date 24.11.2021 / end_date 29.11.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/?do=findReview&review=11624)
 - ### [Инкубатор](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/) (start_date 11.07.2023 / end_date 04.08.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/?tab=reviews&sort=newest#review-11360)
+- ### [ЧКДЗ: Снова пси-излучение](https://ap-pro.ru/stuff/zov_pripjati/chkdz-snova-psi-izluchenie-r397/) (start_date 07.09.2023 / end_date ??.??.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/?tab=reviews&sort=newest#review-11360)
