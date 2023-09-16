@@ -1,8 +1,8 @@
 # Сталкер
-# Модов пройдено: 102
+# Модов пройдено: 103
 ## ТЧ: 46
 ## ЧН: 3
-## ЗП: 53
+## ЗП: 54
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -118,4 +118,4 @@
 - ### [Инкубатор](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/) (start_date 11.07.2023 / end_date 04.08.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/?do=findReview&review=14613)
 - ### [The Price of Lost Memories](https://ap-pro.ru/stuff/zov_pripjati/the-price-of-lost-memories-r380/) (start_date 08.09.2023 / end_date 12.09.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-chast-pervaya-r170/?tab=reviews&sort=newest#review-11360)
 - ### [Беларусь](https://ap-pro.ru/stuff/zov_pripjati/belarus-r392/) (start_date 13.09.2023 / end_date ??.??.2023) [Отзыв]()
-- ### [Омут](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/) (start_date 14.09.2023 / end_date ??.??.2023) [Отзыв]()
+- ### [Омут](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/) (start_date 14.09.2023 / end_date 16.09.2023) [Отзыв]()
