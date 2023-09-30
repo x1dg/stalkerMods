@@ -1,5 +1,5 @@
 # Сталкер
-# Модов пройдено: 103
+# Модов пройдено: 104
 ## ТЧ: 46
 ## ЧН: 3
 ## ЗП: 54
@@ -116,7 +116,6 @@
 - ### [Золотой обоз 2](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/) (start_date 17.10.2021 / end_date 26.10.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/zolotoy-oboz-2-r188/?tab=reviews&sort=newest#review-11394)
 - ### [История Джона](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/) (start_date 24.11.2021 / end_date 29.11.2021) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/istoriya-dzhona-r336/?do=findReview&review=11624)
 - ### [Инкубатор](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/) (start_date 11.07.2023 / end_date 04.08.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/?do=findReview&review=14613)
-- ### [The Price of Lost Memories](https://ap-pro.ru/stuff/zov_pripjati/the-price-of-lost-memories-r380/) (start_date 08.09.2023 / end_date 12.09.2023) [Отзыв](0)
-- ### [Беларусь](https://ap-pro.ru/stuff/zov_pripjati/belarus-r392/) (start_date 13.09.2023 / end_date ??.??.2023) [Отзыв]()
+- ### [The Price of Lost Memories](https://ap-pro.ru/stuff/zov_pripjati/the-price-of-lost-memories-r380/) (start_date 08.09.2023 / end_date 12.09.2023) [Отзыв]([0](https://ap-pro.ru/stuff/zov_pripjati/the-price-of-lost-memories-r380/?tab=reviews&sort=newest#review-14656))
 - ### [Омут](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/) (start_date 14.09.2023 / end_date 16.09.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/?tab=reviews&sort=newest#review-14647)
-- ### [Наитие](https://ap-pro.ru/stuff/zov_pripjati/naitie-r404/) (start_date 18.09.2023 / end_date ??.??.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/?do=findReview&review=14613)
+- ### [Наитие](https://ap-pro.ru/stuff/zov_pripjati/naitie-r404/) (start_date 18.09.2023 / end_date 30.09.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/?do=findReview&review=14613)
