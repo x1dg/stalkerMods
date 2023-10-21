@@ -1,8 +1,8 @@
 # Сталкер
-# Модов пройдено: 104
+# Модов пройдено: 105
 ## ТЧ: 46
 ## ЧН: 3
-## ЗП: 54
+## ЗП: 55
 
 ## Vanila
 - ### [S.T.A.L.K.E.R. Shadow Of Chenobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/) (end_date 2009)
@@ -118,5 +118,5 @@
 - ### [Инкубатор](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/) (start_date 11.07.2023 / end_date 04.08.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/inkubator-r379/?do=findReview&review=14613)
 - ### [The Price of Lost Memories](https://ap-pro.ru/stuff/zov_pripjati/the-price-of-lost-memories-r380/) (start_date 08.09.2023 / end_date 12.09.2023) [Отзыв]([0](https://ap-pro.ru/stuff/zov_pripjati/the-price-of-lost-memories-r380/?tab=reviews&sort=newest#review-14656))
 - ### [Омут](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/) (start_date 14.09.2023 / end_date 16.09.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/?tab=reviews&sort=newest#review-14647)
-- ### [Наитие](https://ap-pro.ru/stuff/zov_pripjati/naitie-r404/) (start_date 18.09.2023 / end_date 30.09.2023) [Отзыв]()
-- ### [Падший Бог: Плохой Эпилог](https://ap-pro.ru/stuff/zov_pripjati/padshiy-bog-plohoy-epilog-r389/) (start_date 18.10.2023 / end_date ??.10.2023) [Отзыв]()
+- ### [Наитие](https://ap-pro.ru/stuff/zov_pripjati/naitie-r404/) (start_date 18.09.2023 / end_date 30.09.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/naitie-r404/?do=findReview&review=14687)
+- ### [Падший Бог: Плохой Эпилог](https://ap-pro.ru/stuff/zov_pripjati/padshiy-bog-plohoy-epilog-r389/) (start_date 18.10.2023 / end_date 21.10.2023) [Отзыв]()
