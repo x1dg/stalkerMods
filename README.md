@@ -120,3 +120,4 @@
 - ### [Омут](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/) (start_date 14.09.2023 / end_date 16.09.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/omut-r395/?tab=reviews&sort=newest#review-14647)
 - ### [Наитие](https://ap-pro.ru/stuff/zov_pripjati/naitie-r404/) (start_date 18.09.2023 / end_date 30.09.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/naitie-r404/?do=findReview&review=14687)
 - ### [Падший Бог: Плохой Эпилог](https://ap-pro.ru/stuff/zov_pripjati/padshiy-bog-plohoy-epilog-r389/) (start_date 18.10.2023 / end_date 21.10.2023) [Отзыв](https://ap-pro.ru/stuff/zov_pripjati/padshiy-bog-plohoy-epilog-r389/?tab=reviews&sort=newest#review-14808)
+- ### [Тайна Кордона](https://ap-pro.ru/stuff/zov_pripjati/tayna-kordona-r408/) (start_date 02.11.2023 / end_date ??.11.2023) [Отзыв]()
