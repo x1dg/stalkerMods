@@ -56,6 +56,7 @@
 - ### [SFZ Project: Lost Story](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-lost-story-r340/) (start_date 31.12.2021 / end_date 07.01.2022) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/sfz-project-lost-story-r340/page/2/?tab=reviews&sort=newest#review-11855)
 - ### [Ночь Перед Рождеством 5](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/) (start_date 07.01.2022 / end_date 13.01.2022) [Отзыв](https://ap-pro.ru/stuff/ten_chernobylja/noch-pered-rozhdestvom-5-r342/?tab=reviews&sort=newest#review-11910)
 - ### [ФОТОГРАФ - SELFMADE](https://ap-pro.ru/forums/topic/3329-fotograf-selfmade/) (start_date 01.05.2022 / end_date 01.11.2022) [Отзыв]()
+- ### [Смутные времена](https://ap-pro.ru/stuff/ten_chernobylja/smutnye-vremena-r480/) (start_date 26.06.2026 / end_date ??.??.2026) [Отзыв]()
 
 ## Чистое Небо
 - ### [Ермак: Последний Рейд](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/) (start_date 20.08.2021 / end_date 20.08.2021) [Отзыв](https://ap-pro.ru/stuff/chistoe_nebo/ermak-posledniy-reyd-r319/?tab=reviews&sort=newest#review-11044)
